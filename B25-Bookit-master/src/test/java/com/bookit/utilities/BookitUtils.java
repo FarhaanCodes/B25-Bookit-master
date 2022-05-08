@@ -21,4 +21,9 @@ public class BookitUtils {
 
         return token;
     }
+
+    //hw
+    //create method that accepts String like "teacher", "student-leader","student-member"
+    // you will get one valid email and password for each from configuration.properties
+    //and return valid token
 }
